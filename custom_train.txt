@@ -1,0 +1,42 @@
+1.jpg	Q.1]
+2.jpg	What
+3.jpg	is
+4.jpg	react?
+5.jpg	Ans
+6.jpg	React.js
+7.jpg	is
+8.jpg	a
+9.jpg	javascript
+10.jpg  based
+11.jpg	framework
+12.jpg	It
+13.jpg	provided
+14.jpg	various
+15.jpg	features
+16.jpg	end
+17.jpg	makes
+18.jpg	the
+19.jpg	development
+20.jpg	task
+21.jpg	easily.
+22.jpg	Q2]
+23.jpg	What
+24.jpg	is
+25.jpg	SQl?
+26.jpg	structured
+27.jpg	Query
+28.jpg	language
+29.jpg	It
+30.jpg	is
+31.jpg	used
+32.jpg	to
+33.jpg	interact
+34.jpg	with
+35.jpg	Database.
+36.jpg	Q3]
+37.jpg	What
+38.jpg	is
+39.jpg	a
+40.jpg	database ?
+
+
