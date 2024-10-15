@@ -1,13 +1,13 @@
-1.jpg	Q.1]
-2.jpg	What
-3.jpg	is
-4.jpg	react?
-5.jpg	Ans
-6.jpg	React.js
-7.jpg	is
-8.jpg	a
-9.jpg	javascript
-10.jpg  based
+01.jpg	Q.1]
+02.jpg	What
+03.jpg	is
+04.jpg	react?
+05.jpg	Ans
+06.jpg	React.js
+07.jpg	is
+08.jpg	a
+09.jpg	javascript
+10.jpg	based
 11.jpg	framework
 12.jpg	It
 13.jpg	provided
@@ -38,5 +38,3 @@
 38.jpg	is
 39.jpg	a
 40.jpg	database ?
-
-
