@@ -6,5 +6,5 @@ import csv
 
 with open('file.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    for i in range(1, 801):
+    for i in range(900, 1000):
         writer.writerow([f'{str(i).zfill(5)}.png'])
