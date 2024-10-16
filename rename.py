@@ -1,13 +1,13 @@
 import os
 
 # Specify the directory containing the images
-folder_path = 'data'  # Replace with the path to your images folder
+folder_path = 'data_test'  # Replace with the path to your images folder
 
 # Get a list of all files in the directory
 files = os.listdir(folder_path)
 
 # Initialize a counter for numbering
-counter = 1
+counter = 900
 
 for file in files:
     # Get the file extension
