@@ -1,0 +1,829 @@
+file_name,text
+00001.png,Assignemnt No: 10
+00002.png,Name:
+00003.png,Prutha
+00004.png,Sanjay
+00005.png,Pawade
+00006.png,Roll No:
+00007.png,CS -B
+00008.png,(89)
+00009.png,PRN:
+00010.png,12320120
+00011.png,Write /
+00012.png,Elabarate
+00013.png,about
+00014.png,Record
+00015.png,Blocking
+00016.png,Assignment
+00017.png,No: 9
+00018.png,Write
+00019.png,a
+00020.png,Short
+00021.png,Note
+00022.png,on
+00023.png,Input
+00024.png,/
+00025.png,output
+00026.png,system
+00027.png,->
+00028.png,1
+00029.png,It
+00030.png,manages
+00031.png,input
+00032.png,/output
+00033.png,data
+00034.png,within
+00035.png,Assignment No: 7
+00036.png,System
+00037.png,Assignemnt
+00038.png,No
+00039.png,2
+00040.png,It
+00041.png,7
+00042.png,evolves
+00043.png,Name: Prutha
+00044.png,Prutha
+00045.png,Name
+00046.png,Sanjay
+00047.png,Pawade
+00048.png,Roll No:
+00049.png,Roll
+00050.png,No:
+00051.png,89
+00052.png,communication
+00053.png,CS
+00054.png,between
+00055.png,CPU
+00056.png,and
+00057.png,memory
+00058.png,3
+00059.png,It
+00060.png,- B
+00061.png,also
+00062.png,perform
+00063.png,89 CS - B
+00064.png,IPC
+00065.png,in
+00066.png,between
+00067.png,Perripherals
+00068.png,devices
+00069.png,PRN: 12320120
+00070.png,assigned
+00071.png,PRN:
+00072.png,with
+00073.png,12320120
+00074.png,computers.
+00075.png,1)
+00076.png,4
+00077.png,The
+00078.png,Process
+00079.png,I/O
+00080.png,size
+00081.png,and
+00082.png,origanisation
+00083.png,block
+00084.png,is
+00085.png,critical
+00086.png,memory
+00087.png,is
+00088.png,for
+00089.png,given
+00090.png,overall
+00091.png,block
+00092.png,performance
+00093.png,and
+00094.png,size:
+00095.png,efficiency
+00096.png,of
+00097.png,"{ 100, 500, 200,"
+00098.png,computer
+00099.png,"300, 600 }"
+00100.png,system.
+00101.png,5
+00102.png,It
+00103.png,also
+00104.png,involves
+00105.png,Process size and block memory is given
+00106.png,specific
+00107.png,data
+00108.png,transmission
+00109.png,Process Size:
+00110.png,error
+00111.png,First Fit:
+00112.png,First
+00113.png,Fit:
+00114.png,checking
+00115.png,and
+00116.png,1st
+00117.png,converting
+00118.png,data
+00119.png,formats
+00120.png,*
+00121.png,key
+00122.png,2nd
+00123.png,components
+00124.png,"{ 100, 288, 200, 300, 600"
+00125.png,{
+00126.png,of
+00127.png,I/O
+00128.png,origanisation:
+00129.png,3rd
+00130.png,1)
+00131.png,I/O
+00132.png,4th :
+00133.png,P1/P3
+00134.png,modules:
+00135.png,Acts
+00136.png,as
+00137.png,P4
+00138.png,an
+00139.png,Peripherial
+00140.png,device
+00141.png,in
+00142.png,Process
+00143.png,between
+00144.png,peripherial
+00145.png,P2
+00146.png,devices
+00147.png,will
+00148.png,and
+00149.png,remain
+00150.png,CPU.
+00151.png,out
+00152.png,2)
+00153.png,of
+00154.png,Buses:
+00155.png,the
+00156.png,A
+00157.png,bus
+00158.png,memory
+00159.png,is
+00160.png,as
+00161.png,a
+00162.png,no
+00163.png,communication
+00164.png,Process P2 will remain out of the memory as no
+00165.png,System
+00166.png,is vacant in it.
+00167.png,that
+00168.png,transfer
+00169.png,data
+00170.png,between
+00171.png,is vacant in it.
+00172.png,is
+00173.png,components
+00174.png,or
+00175.png,vacant
+00176.png,in
+00177.png,between
+00178.png,it.
+00179.png,computers.
+00180.png,3)
+00181.png,controllers
+00182.png,b)
+00183.png,2
+00184.png,worst
+00185.png,fit:
+00186.png,Adapters:
+00187.png,1st:
+00188.png,Manages
+00189.png,P2
+00190.png,operation
+00191.png,P3
+00192.png,of
+00193.png,P1
+00194.png,peripherial
+00195.png,devices
+00196.png,P4: will remain out of
+00197.png,6
+00198.png,It
+00199.png,out of memory
+00200.png,also
+00201.png,provide
+00202.png,remain
+00203.png,will
+00204.png,compatibilty
+00205.png,and
+00206.png,capability
+00207.png,in
+00208.png,out
+00209.png,between
+00210.png,Block
+00211.png,Standard
+00212.png,SIze :
+00213.png,interfaces
+00214.png,like
+00215.png,c) Best Fit :
+00216.png,USB
+00217.png,c)
+00218.png,or
+00219.png,Best
+00220.png,SATA
+00221.png,Fit :
+00222.png,-
+00223.png,Techniques
+00224.png,Block Size
+00225.png,in
+00226.png,Block
+00227.png,I/o
+00228.png,Size
+00229.png,organization :
+00230.png,Process
+00231.png,Size
+00232.png,1)
+00233.png,Block
+00234.png,Size
+00235.png,Programmed
+00236.png,I/o
+00237.png,d) Next Fit :
+00238.png,2)
+00239.png,d)
+00240.png,Next
+00241.png,Interupt
+00242.png,driven
+00243.png,Fit :
+00244.png,I/o
+00245.png,Process :
+00246.png,3)
+00247.png,2 nd 
+00248.png,Direct
+00249.png,memory
+00250.png,3 rd
+00251.png,access
+00252.png,P4 will be out of memory
+00253.png,(DMA)
+00254.png,Out
+00255.png,-
+00256.png,of
+00257.png,challenges
+00258.png,in 
+00259.png,will
+00260.png,I/o
+00261.png,P4 will be 
+00262.png,operations :
+00263.png,1
+00264.png,will be out of 
+00265.png,concurrency 
+00266.png,Performance
+00267.png,Error
+00268.png,Handling
+00269.png,Security
+00270.png,and
+00271.png,safety
+00272.png,I/O
+00273.png,organization
+00274.png,Practical No : 6
+00275.png,is
+00276.png,vital
+00277.png,Practical
+00278.png,aspect
+00279.png,of
+00280.png,No : 6
+00281.png,system
+00282.png,Aim : 
+00283.png,design
+00284.png,use
+00285.png,as
+00286.png,of
+00287.png,its
+00288.png,network
+00289.png,influence
+00290.png,reconnaissance
+00291.png,1)
+00292.png,Efficiency
+00293.png,tools
+00294.png,Functionality
+00295.png,Use of network reconnaissance tools
+00296.png,Fundability
+00297.png,like
+00298.png,Expandability
+00299.png,WHOIS
+00300.png,Data
+00301.png,Transfer
+00302.png,dig
+00303.png,traceroute
+00304.png,nslookup
+00305.png,to
+00306.png,Write a short note on Input / Output system 
+00307.png,It manages Input / output data within the system 
+00308.png,2. It involves communication between CPU and memory
+00309.png,gather
+00310.png,information
+00311.png,about
+00312.png,networks
+00313.png,and
+00314.png,domain
+00315.png,3. It also perform IPC in between peripherals devices
+00316.png,registers
+00317.png,assigned with computers
+00318.png,and domain registers
+00319.png,to gather information about networks
+00320.png,Relevant Course Outcome : Describe 
+00321.png,Ethical Hacking process and Detect
+00322.png,Network Vulnerabilities
+00323.png,4. The I/O organization is critical for overall performance 
+00324.png,and 
+00325.png,efficiency
+00326.png,of
+00327.png,Relevant 
+00328.png,computer
+00329.png,course
+00330.png,system
+00331.png,Outcome : 
+00332.png,Describe
+00333.png,and efficiency of computer system 
+00334.png,Ethical
+00335.png,Hacking
+00336.png,5. It involves specific data transmission error
+00337.png,process
+00338.png,and 
+00339.png,checking and converting data Formats
+00340.png,Detect
+00341.png,Network
+00342.png,key components of I/O organizations
+00343.png,vulnerabilites 
+00344.png,1) I/O modules :
+00345.png,Acts as an peripheral device in between peripheral
+00346.png,Theoretical Background : 
+00347.png,devices and CPU
+00348.png,Theoretical
+00349.png,2) Buses :
+00350.png,Background :
+00351.png,WHOIS is a protocal  used to query 
+00352.png,A bus is a communication system that transfer data
+00353.png,WHOSIS
+00354.png,between components or between computers
+00355.png,is
+00356.png,3) controllers 2 Adapters :
+00357.png,a
+00358.png,protocol
+00359.png,Manages operations of peripheral devices 
+00360.png,used
+00361.png,to 
+00362.png,query
+00363.png,6. It also provide compatibility and capability in
+00364.png,WHOIS is a protocal  used to query 
+00365.png,between standard interfaces like USB or SATA
+00366.png,databases
+00367.png,- Techniques in I/O organization :
+00368.png,that
+00369.png,contain
+00370.png,1) Programmed I/o
+00371.png,information
+00372.png,about
+00373.png,2) Interrupt driven I/O
+00374.png,domain
+00375.png,3) Direct memeory access (DMA)
+00376.png,names
+00377.png,and 
+00378.png,- challenges in I/O Operations : 
+00379.png,-I/O organization is vital aspect of system design as its
+00380.png,7. It also manages memory system and scalability of system
+00381.png,IP
+00382.png,addresses
+00383.png,databases that contain information
+00384.png,about domain names and IP addresses
+00385.png,"By querying WHOIS, it is possible to"
+00386.png,Obtain
+00387.png,information about the 
+00388.png,By
+00389.png,querying
+00390.png,"WHOIS,"
+00391.png,it
+00392.png,is
+00393.png,possible
+00394.png,to
+00395.png,Types of operating system:
+00396.png,There are several types of operating systems
+00397.png,which are mentioned below:
+00398.png,1) Batch Operating System.
+00399.png,2) Multiprogramming operating system
+00400.png,"domain name owner,"
+00401.png,registration date
+00402.png,3) Time Sharing operating system
+00403.png,4) Paralled operating system
+00404.png,name
+00405.png,5) Distributed operating system
+00406.png,owner
+00407.png,registration
+00408.png,6) Real time operating system
+00409.png,date
+00410.png,and
+00411.png,contact
+00412.png,1. Batch
+00413.png,details
+00414.png, 1. Batch Operating system :
+00415.png,This type of operating system does not interact
+00416.png,Dig
+00417.png,with the computer direclty. There is as operator
+00418.png,(domain information graper)
+00419.png,is a
+00420.png,is
+00421.png,which takes similar jobs having the same requirments
+00422.png,command
+00423.png,tool
+00424.png,used
+00425.png,tool
+00426.png,to
+00427.png,which takes similar jobs having the same requirments
+00428.png,query DNS Servers
+00429.png,"Examples: Payroll Systems, Bank Statements etc"
+00430.png,DNS
+00431.png,ty of the operator to sort jobs with similar needs
+00432.png,Servers
+00433.png,and
+00434.png,types
+00435.png,obtain
+00436.png,of
+00437.png,operating system
+00438.png,IP addresses and DNS records
+00439.png,There
+00440.png,are
+00441.png,several
+00442.png,"about domain names, including"
+00443.png,types
+00444.png,of
+00445.png,records
+00446.png,operating
+00447.png,addresses
+00448.png,systems
+00449.png,which
+00450.png,mentioned
+00451.png,below:
+00452.png,Traceroute is a tool used to
+00453.png,Batch
+00454.png,Traceroute
+00455.png,Multiprogramming
+00456.png,is
+00457.png,Time
+00458.png,a
+00459.png,sharing
+00460.png,tool
+00461.png,Parallel
+00462.png,used
+00463.png,Distributed
+00464.png,to
+00465.png,trace
+00466.png,the
+00467.png,path
+00468.png,taken
+00469.png,by
+00470.png,Real time
+00471.png,packets
+00472.png,Examples:
+00473.png,Payroll
+00474.png,from the source to the destination
+00475.png,systems
+00476.png,Bank
+00477.png,statements
+00478.png,etc
+00479.png,and identify any network issues
+00480.png,identify
+00481.png,network
+00482.png,issues
+00483.png,NSlookup is another command line
+00484.png,NSlookup
+00485.png,is
+00486.png,another
+00487.png,command
+00488.png,line
+00489.png,tool
+00490.png,used
+00491.png,to
+00492.png,query
+00493.png,DNS
+00494.png,servers
+00495.png,and
+00496.png,names and IP addresses
+00497.png,IP
+00498.png,addresses
+00499.png,and
+00500.png,Implementation
+00501.png,To gather information about a network
+00502.png,file
+00503.png,or domain register using these tools
+00504.png,end
+00505.png,its
+00506.png,you can start by performing WHOIS
+00507.png,concept
+00508.png,File
+00509.png,query to obtain information
+00510.png,management
+00511.png,domain owner registration date
+00512.png,A
+00513.png,and contacts details. This information 
+00514.png,file
+00515.png,is
+00516.png,contact
+00517.png,a
+00518.png,This
+00519.png,named
+00520.png,information
+00521.png,collection
+00522.png,of
+00523.png,related
+00524.png,information
+00525.png,can be useful in identifying potential
+00526.png,useful
+00527.png,that
+00528.png,identifying
+00529.png,is
+00530.png,recorded
+00531.png,potential
+00532.png,on
+00533.png,vulnerabilities
+00534.png,secondary
+00535.png,and
+00536.png,storage
+00537.png,assessing
+00538.png,such
+00539.png,the
+00540.png,assessing
+00541.png,security
+00542.png,magnetic
+00543.png,posture of the target
+00544.png,disks
+00545.png,organization
+00546.png,magnetic
+00547.png,"Next, you can use dig to obtain"
+00548.png,tapes
+00549.png,end
+00550.png,information about the domain name
+00551.png,optical
+00552.png,including IP addressess and DNS records
+00553.png,diks
+00554.png,A file is a named collection of related
+00555.png,including
+00556.png,IP
+00557.png,addresses
+00558.png,"disks, magnetic tapes and oprical disks"
+00559.png,that is recorded on secondary storage
+00560.png,information
+00561.png,about
+00562.png,Traceroute can be used to identify
+00563.png,the path taken by packets from the
+00564.png,source to the destination and identify
+00565.png,only network issues. This can help in
+00566.png,identying potential bottlenecks or routing
+00567.png,issues
+00568.png,that may impact the performance
+00569.png,the
+00570.png,performance
+00571.png,or security of the network
+00572.png,network
+00573.png,Finally
+00574.png,nslookup
+00575.png,can
+00576.png,five
+00577.png,Processes
+00578.png,2. Find whether the system is in safe state or the deadlocks
+00579.png,is occured considering following scenario
+00580.png,all the Processes have been selected
+00581.png,"Thus, Processes Pn is selected and will move to next Process"
+00582.png,Network reconnaissance tools can be
+00583.png,"used in various scenario, such as :"
+00584.png,1. Netwok Security :
+00585.png,Network administrators and Security
+00586.png,"Now, let's start for remaining Processes :"
+00587.png,###
+00588.png,Professionals can use these tools to
+00589.png,identify Potential vulnerabilities ans
+00590.png,"Thus, Processes P1 is selected and will move to next Process"
+00591.png,target network
+00592.png,"So, system will move to next Process"
+00593.png,ossess the Security posture of the
+00594.png,p3 is Selected and will move to next Process
+00595.png,2. Troubleshooting Network Issues:
+00596.png,Network administrator can use
+00597.png,Need < Available
+00598.png,tracer.
+00599.png,"Conclusion: Thus, the use of reconnasissance"
+00600.png,1) Let's work and finish the vectors of length m and n
+00601.png,"tools like WHOIS, traceroutes , nslookup"
+00602.png,to gather information about networks
+00603.png,"If  Requesti=0 , then finish[i] = true , otherwise"
+00604.png,and domain registers is successfully
+00605.png,performed
+00606.png,Applying the Algorithm
+00607.png,Download and install nmap. Use it with
+00608.png,different
+00609.png,options
+00610.png,"to scan open ports ,"
+00611.png,Since finish is a vector of all true it means there is an
+00612.png,no deadlock in this Situation.
+00613.png,Relevant Course Outcome : Describe Ethical
+00614.png,Hacking process and Detect Network
+00615.png,if no such i exist go to step 4.
+00616.png,vulnerabilities
+00617.png,t
+00618.png,Theoretical Background :
+00619.png,Nmap ( Network Mapper ) is a
+00620.png,and open-source tool used for network
+00621.png,Name:  the symbolic filename is the only information kept in
+00622.png,human readable form.
+00623.png,1) Record
+00624.png,Blocking
+00625.png,is 
+00626.png,a 
+00627.png,Storage
+00628.png,Technique
+00629.png,mainly
+00630.png,used
+00631.png,in
+00632.png,file
+00633.png,Handling
+00634.png,It
+00635.png,2)
+00636.png,involves
+00637.png,grouping
+00638.png,of
+00639.png,logical
+00640.png,records
+00641.png,into
+00642.png,a
+00643.png,Physical
+00644.png,unit
+00645.png,called
+00646.png,as
+00647.png,Blocks
+00648.png,3)
+00649.png,It
+00650.png,reduces
+00651.png,no. of
+00652.png,disks
+00653.png,access
+00654.png,required
+00655.png,to
+00656.png,mainpulate
+00657.png,certain
+00658.png,data.
+00659.png,4)
+00660.png,It
+00661.png,is 
+00662.png,specifically
+00663.png,used
+00664.png,it
+00665.png,working
+00666.png,databases
+00667.png,of
+00668.png,and
+00669.png,5)
+00670.png,Some
+00671.png,main
+00672.png,aspects
+00673.png,of
+00674.png,records
+00675.png,blocking
+00676.png,are :
+00677.png,1)
+00678.png,Efficiency
+00679.png,in
+00680.png,storage
+00681.png,and
+00682.png,access
+00683.png,2)
+00684.png,Disc
+00685.png,utilization
+00686.png,Management
+00687.png,Buffer
+00688.png,3)
+00689.png,4)
+00690.png,5)
+00691.png,6)
+00692.png,Trade
+00693.png,-offs
+00694.png,Application
+00695.png,in data transfer
+00696.png,optimal
+00697.png,Block
+00698.png,size.
+00699.png,some
+00700.png,main
+00701.png,advantages
+00702.png,Blocking
+00703.png,Record
+00704.png,of
+00705.png,are:
+00706.png,6)
+00707.png,1)
+00708.png,2)
+00709.png,3)
+00710.png,4)
+00711.png,5)
+00712.png,Improved
+00713.png,Performance
+00714.png,Better
+00715.png,disc
+00716.png,Utilization
+00717.png,Efficient
+00718.png,buffer
+00719.png,management
+00720.png,Reduced
+00721.png,overhead
+00722.png,I/O
+00723.png,optimized
+00724.png,N/W
+00725.png,usage
+00726.png,some
+00727.png,of
+00728.png,disadvantages
+00729.png,of record
+00730.png,blocking:
+00731.png,Block Size
+00732.png,issues
+00733.png,1)
+00734.png,2)
+00735.png,3)
+00736.png,4)
+00737.png,5)
+00738.png,6)
+00739.png,More
+00740.png,disk
+00741.png,utilization
+00742.png,fragmentation
+00743.png,over time
+00744.png,potential
+00745.png,cases
+00746.png,some
+00747.png,is
+00748.png,latency
+00749.png,increased
+00750.png,of
+00751.png,potential
+00752.png,wasted
+00753.png,space
+00754.png,with
+00755.png,fixed
+00756.png,blocks
+00757.png,management
+00758.png,complexity in
+00759.png,Increase 
+00760.png,Summary
+00761.png,record
+00762.png,blocking
+00763.png,certainly
+00764.png,increases
+00765.png,efficiency
+00766.png,and
+00767.png,performance
+00768.png,8)
+00769.png,9)
+00770.png,10)
+00771.png,But
+00772.png,it (
+00773.png,also
+00774.png,leads
+00775.png,some
+00776.png,to
+00777.png,challenges
+00778.png,trade -offs
+00779.png,and
+00780.png,system
+00781.png,making
+00782.png,in
+00783.png,helps
+00784.png,often
+00785.png,It
+00786.png,and
+00787.png,effective
+00788.png,working
+00789.png,in
+00790.png,irominent
+00791.png,more
+00792.png,Name: Prutha Sanjay Pawade
+00793.png,Roll No: CS-B (89)
+00794.png,PRN: 12320120
+00795.png,Write / Elaborate about Record Blocking
+00796.png,1) Record Blocking is  a storage Technique mainly used in
+00797.png,1) Data 2) File Handling
+00798.png,2) It involves grouping of logical records into a physical
+00799.png,unit called as Blocks.
+00800.png,3) It reduces no. of disks  access required to manipulate
+00801.png,certain data
+00802.png,4) It is specifically used in working of databases and
+00803.png,file system
+00804.png,5) some main aspects of record blocking are:
+00805.png,1) Efficiency in storage and access
+00806.png,2) Disc utilization
+00807.png,3) Buffer Management
+00808.png,4) Trade - offs.
+00809.png,5) Application in data transfer
+00810.png,6) optimal Block size.
+00811.png,6) Some main advantages of Record Blocking are :
+00812.png,1) Improved system Performance.
+00813.png,2) Better disc Utilization
+00814.png,3) Efficient buffer management.
+00815.png,4) Reduced I/O overhead.
+00816.png,5) Optimized N/W usage.
+00817.png,7) some of dissadvantages of record blocking :
+00818.png,1) Block size issues.
+00819.png,2) Increase Complexity in management.
+00820.png,3) wasted space with fixed blocks.
+00821.png,4) Potential of increased latency is some cases.
+00822.png,5) fragmentation over time.
+00823.png,6) More disk utilisation
+00824.png,"8) In Summary, record blocking certain increases"
+00825.png,performance and effciency.
+00826.png,and effective in working.
+00827.png,9) But it also leads to some challenges and trade-offs
+00828.png,10) It oftern helps in making system more prominent
